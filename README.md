@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm James Askelson</h1>
 <h3 align="center">A hardworking frontend developer from Lafayette, Louisiana</h3>
 
+<h2>About Me</h2>
+<p>Hey, I'm a 28-year-old on a unique journey. I went to college for a few years learning biology before realizing it wasnt what I wanted to do in life, so I dropped out and tried a few odd jobs before I found my way to software engineering thru a friend, where Curiosity about how websites function and a deep interest in technology led me to App Academy's full-stack engineering bootcamp. Here, I honed my skills in JavaScript, Python, Node.js, and React, along with learning tons about multiple data structures and frameworks. Now equipped with a diverse skill set, I'm poised to contribute innovative solutions and ready to face any code problems as a software engineer. My path might have not been the most optimal path I could have taken, but i'm sticking to it and i'm very interested in where it takes me</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesaskelson&label=Profile%20views&color=0e75b6&style=flat" alt="jamesaskelson" /> </p>
 
 
