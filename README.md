@@ -37,6 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesaskelson&show_icons=true&locale=en" alt="jamesaskelson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesaskelson&" alt="jamesaskelson" /></p>
-
-<h2>About Me</h2>
-<p>Hey, I'm a 28-year-old on a unique journey. I went to college for a few years learning biology before realizing it wasnt what I wanted to do in life, so I dropped out and tried a few odd jobs before I found my way to software engineering thru a friend, where Curiosity about how websites function and a deep interest in technology led me to App Academy's full-stack engineering bootcamp. Here, I honed my skills in JavaScript, Python, Node.js, and React, along with learning tons about multiple data structures and frameworks. Now equipped with a diverse skill set, I'm poised to contribute innovative solutions and ready to face any code problems as a software engineer. My path might have not been the most optimal path I could have taken, but i'm sticking to it and i'm very interested in where it takes me</p>
